@@ -23,16 +23,21 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
 **Additional context**
 Add any other context about the problem here.
+
+**How we prioritize issues**
+We will try to answer all questions that do not require research within 24hr.
+To prioritize cases that require research we use the following labels in order.
+
+1. ❤ Sponsor Bronze
+2. ❤ Sponsor
+3. ❤ Backer
+4. Installation
+5. ShowStopper
+6. Nuget
+7. Contribution
+8. BreakingChange
+9. ReproSample
+10. Deployment
+11. must-have
